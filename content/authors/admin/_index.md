@@ -5,9 +5,9 @@ avatar_filename: 83086833_3047537368628764_870905333826161798_n.jpg
 bio: Meus interesses de pesquisa incluem redes de ligações de hidrogênio em
   sistemas de matéria condensada.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Redes Complexas
+  - Química Computacional
+  - Matéria Condensada
 social:
   - icon: envelope
     icon_pack: fas
