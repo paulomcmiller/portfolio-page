@@ -1,7 +1,7 @@
 ---
 title: Paulo McMiller
 role: Pesquisador em pós-doutoramento
-avatar_filename: 83086833_3047537368628764_870905333826161798_n.jpg
+avatar_filename: avatar.jpg
 bio: Meus interesses de pesquisa incluem redes de ligações de hidrogênio em
   sistemas de matéria condensada.
 interests:
