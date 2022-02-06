@@ -5,22 +5,22 @@
 
 main:
   - name: Perfil
-    url: '#sobre'
+    url: '#about'
     weight: 10
   - name: Postagens
     url: '#posts'
     weight: 20
   - name: Projetos
-    url: '#projetos'
+    url: '#projects'
     weight: 30
   - name: Desenhos
-    url: '#desenhos'
+    url: '#talks'
     weight: 40
   - name: Publicações
-    url: '#artigos'
+    url: '#publications'
     weight: 50
   - name: Contato
-    url: '#contato'
+    url: '#contact'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
