@@ -13,6 +13,6 @@ links: []
 image:
   caption: ""
   focal_point: Smart
-  filename: ""
+  filename: toc-graphic.png
 url_code: ""
 ---
