@@ -41,4 +41,4 @@ highlight_name: true
 ---
 Paulo McMiller é um pesquisador em pós-doutoramento na área de química computacional do Núcleo Interdisciplinar de Ciências Exatas e da Natureza no Campus Agreste da UFPE/Caruaru. Seus interesses de pesquisa se concentram no estudo de rede de ligações de hidrogênio em sistemas de matéria condensada. Em colaboração com o NICEN, ele tem desenvolvido softwares para estudo de redes de ligações intermoleculares usando ferramentas de ciência de redes. Seu fascínio pelo estudo de redes o fez explorar o comportamento coletivo de moléculas de água em condições ambiente e em espaços confinados.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Veja meu {{< staticref "uploads/cv_pmco.pdf" "newtab" >}}Currículo Lattes{{< /staticref >}}.
