@@ -7,7 +7,7 @@ experience:
     company_url: "https://sites.ufpe.br/nicen/"
     company_logo: UFPE
     location: Caruaru/PE
-    date_start: 01-07-2019
+    date_start: 2019-07-01
     date_end: ""
     description: |-2
         Responsabilidades:
@@ -24,8 +24,8 @@ experience:
     company_url: "https://www.ufpe.br/web/guest/inicio"
     company_logo: UFPE
     location: Caruaru/PE
-    date_start: 23-03-2017
-    date_end: 30-12-2018
+    date_start: 2017-03-23
+    date_end: 2018-12-31
     description: Ensino de disciplinas do ciclo básico de Química para cursos de Licenciatura em Química, Física e Matemática.
 widget_id: "#experience"
 headless: true
