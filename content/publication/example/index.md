@@ -21,7 +21,7 @@ abstract: Hydrogen cyanide (HCN) and its tautomer hydrogen isocyanide (HNC) are
   linear with respect to the interaction energy, which may be relevant for
   designing and/or correcting empirical force fields.
 slides: ""
-url_pdf: ""
+url_pdf: "https://www.researchgate.net/profile/Paulo-Mcmiller/publication/313352155_Benchmark_DFT_assessments_cooperativity_and_energy_decomposition_analysis_of_the_hydrogen_bonds_in_HCNHNC_oligomeric_complexes/links/609fe162299bf147699ecc10/Benchmark-DFT-assessments-cooperativity-and-energy-decomposition-analysis-of-the-hydrogen-bonds-in-HCN-HNC-oligomeric-complexes.pdf"
 publication_types:
   - "2"
 authors:
