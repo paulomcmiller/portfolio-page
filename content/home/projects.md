@@ -11,10 +11,12 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Redes Complexas
+      tag: Redes Complexas, Networks
+    - name: Água
+      tag: Água
+    - name: Estrutura Eletrônica
+      tag: DFT
 design:
   columns: "2"
   view: 2
