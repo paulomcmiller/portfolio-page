@@ -5,7 +5,7 @@ experience:
   - title: Pesquisador em Pós-doutoramento
     company: Universidade Federal de Pernambuco
     company_url: "https://sites.ufpe.br/nicen/"
-    company_logo: UFPE
+    company_logo: UFPE2
     location: Caruaru/PE
     date_start: 2019-07-01
     date_end: ""
@@ -22,7 +22,7 @@ experience:
   - title: Professor substituto de Química Geral
     company: Universidade Federal de Pernambuco
     company_url: "https://www.ufpe.br/web/guest/inicio"
-    company_logo: UFPE
+    company_logo: UFPE2
     location: Caruaru/PE
     date_start: 2017-03-23
     date_end: 2018-12-31
