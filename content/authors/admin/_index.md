@@ -30,7 +30,7 @@ social:
       header: false
     link: http://lattes.cnpq.br/3524639053960908
     icon_pack: fas
-    icon: resumé
+    icon: resume
 organizations:
   - name: Universidade Federal de Pernambuco
     url: https://ufpe.br/
