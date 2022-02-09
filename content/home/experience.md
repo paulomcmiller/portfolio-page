@@ -13,9 +13,9 @@ experience:
         Responsabilidades:
         
         * Desenvolvimento de aplicativos
-        * Simulação computacional
+        * Modelagem molecular
         * Análise de resultados
-        * Ensino e Orientação
+        * Ensino e orientação
         * Manutenção de equipamentos
         * Escrita de relatórios, artigos e documentos
         * Apresentação e divulgação de projetos
