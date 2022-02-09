@@ -15,8 +15,8 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/mcmilier
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: scholar
+    icon_pack: fab
     link: https://scholar.google.com.br/citations?user=jV6zSPoAAAAJ&h
   - icon: github
     icon_pack: fab
@@ -30,7 +30,7 @@ social:
       header: false
     link: http://lattes.cnpq.br/3524639053960908
     icon_pack: fas
-    icon: resume
+    icon: curriculum
 organizations:
   - name: Universidade Federal de Pernambuco
     url: https://ufpe.br/
