@@ -21,6 +21,16 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/paulomcmiller
+  - display:
+      header: false
+    link: https://www.last.fm/pt/user/lMcMiller
+    icon_pack: fab
+    icon: lastfm
+  - display:
+      header: false
+    link: http://lattes.cnpq.br/3524639053960908
+    icon_pack: fas
+    icon: resumé
 organizations:
   - name: Universidade Federal de Pernambuco
     url: https://ufpe.br/
