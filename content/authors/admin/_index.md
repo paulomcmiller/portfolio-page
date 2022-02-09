@@ -31,6 +31,11 @@ social:
     link: http://lattes.cnpq.br/3524639053960908
     icon_pack: fas
     icon: curriculum
+  - display:
+      header: false
+    link: https://orcid.org/0000-0002-5321-7049
+    icon_pack: ai
+    icon: orcid
 organizations:
   - name: Universidade Federal de Pernambuco
     url: https://ufpe.br/
