@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: Meus interesses de pesquisa incluem redes de ligações de hidrogênio em
   sistemas de matéria condensada.
 interests:
-  - Redes Complexas
+  - Ciência de Redes
   - Química Computacional
   - Matéria Condensada
 social:
@@ -23,6 +23,8 @@ social:
     link: https://github.com/paulomcmiller
 organizations:
   - name: Universidade Federal de Pernambuco
+    url: https://ufpe.br/
+  - name: NICEN
     url: https://sites.ufpe.br/nicen/
 education:
   courses:
@@ -31,7 +33,7 @@ education:
       year: 2019
     - course: Mestrado em Química Computacional
       institution: Universidade Federal de Pernambuco
-      year: 2012
+      year: 2013
     - course: Bacharelado em Química
       institution: Universidade Federal da Bahia
       year: 2010
@@ -39,6 +41,6 @@ email: paulomcmiller@gmail.com
 superuser: true
 highlight_name: true
 ---
-Paulo McMiller é um pesquisador em pós-doutoramento na área de química computacional do Núcleo Interdisciplinar de Ciências Exatas e da Natureza no Campus Agreste da UFPE/Caruaru. Seus interesses de pesquisa se concentram no estudo de rede de ligações de hidrogênio em sistemas de matéria condensada. Em colaboração com o NICEN, ele tem desenvolvido softwares para estudo de redes de ligações intermoleculares usando ferramentas de ciência de redes. Seu fascínio pelo estudo de redes o fez explorar o comportamento coletivo de moléculas de água em condições ambiente e em espaços confinados.
+Paulo McMiller é um pesquisador em pós-doutoramento na área de química computacional do Campus Agreste da UFPE em Caruaru. Seus interesses de pesquisa se concentram no estudo de rede de ligações de hidrogênio em sistemas de matéria condensada. Em colaboração com o NICEN (Núcleo Interdisciplinar de Ciências Exatas e da Natureza), ele tem desenvolvido softwares para estudo de redes de ligações intermoleculares usando ferramentas de ciência de redes. Seu fascínio pelo estudo de redes o fez explorar o comportamento coletivo de moléculas de água em condições ambiente e em espaços confinados.
 
 {{< icon name="download" pack="fas" >}} Veja meu {{< staticref "uploads/CV_PMCO(eng).pdf" "newtab" >}}Currículo Lattes{{< /staticref >}}.
