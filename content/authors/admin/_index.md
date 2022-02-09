@@ -29,8 +29,8 @@ social:
   - display:
       header: false
     link: http://lattes.cnpq.br/3524639053960908
-    icon_pack: fas
-    icon: curriculum
+    icon_pack: ai
+    icon: lattes
   - display:
       header: false
     link: https://orcid.org/0000-0002-5321-7049
