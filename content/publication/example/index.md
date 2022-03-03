@@ -1,4 +1,13 @@
 ---
+title: Benchmark, DFT assessments, cooperativity, and energy decomposition
+  analysis of the hydrogen bonds in HCN/HNC oligomeric complexes
+publication_types:
+  - "2"
+authors:
+  - Paulo McMiller
+  - Ricardo Longo
+  - Juliana Angeiras
+publication_short: "*JMM*"
 abstract: Hydrogen cyanide (HCN) and its tautomer hydrogen isocyanide (HNC) are
   relevant for extraterrestrial chemistry and possible relation to the origin of
   biomolecules. Several processes and reactions involving these molecules depend
@@ -20,39 +29,33 @@ abstract: Hydrogen cyanide (HCN) and its tautomer hydrogen isocyanide (HNC) are
   were obtained. The cooperativity energy was also found to be practically
   linear with respect to the interaction energy, which may be relevant for
   designing and/or correcting empirical force fields.
-slides: ""
-url_pdf: "https://www.researchgate.net/profile/Paulo-Mcmiller/publication/313352155_Benchmark_DFT_assessments_cooperativity_and_energy_decomposition_analysis_of_the_hydrogen_bonds_in_HCNHNC_oligomeric_complexes/links/609fe162299bf147699ecc10/Benchmark-DFT-assessments-cooperativity-and-energy-decomposition-analysis-of-the-hydrogen-bonds-in-HCN-HNC-oligomeric-complexes.pdf"
-publication_types:
-  - "2"
-authors:
-  - Paulo McMiller
-  - Ricardo Longo
-  - Juliana Angeiras
-author_notes: []
-publication: "*Journal of Molecular Modeling*"
-summary: ""
-url_dataset: ""
-url_project: ""
-publication_short: "*JMM*"
-url_source: ""
-url_video: ""
-title: Benchmark, DFT assessments, cooperativity, and energy decomposition
-  analysis of the hydrogen bonds in HCN/HNC oligomeric complexes
-doi: https://doi.org/10.1007/s00894-017-3235-x
+draft: false
 featured: true
 tags: []
-projects: []
+slides: ""
+url_pdf: https://www.researchgate.net/profile/Paulo-Mcmiller/publication/313352155_Benchmark_DFT_assessments_cooperativity_and_energy_decomposition_analysis_of_the_hydrogen_bonds_in_HCNHNC_oligomeric_complexes/links/609fe162299bf147699ecc10/Benchmark-DFT-assessments-cooperativity-and-energy-decomposition-analysis-of-the-hydrogen-bonds-in-HCN-HNC-oligomeric-complexes.pdf
 image:
   caption: ""
   focal_point: smart
   preview_only: false
-  filename: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00894-017-3235-x/MediaObjects/894_2017_3235_Figa_HTML.gif?as=webp
+  filename: ""
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes: []
+doi: https://doi.org/10.1007/s00894-017-3235-x
+publication: "*Journal of Molecular Modeling*"
+projects: []
 date: 2017-02-04T18:13:23.093Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
+![](abstract_graphical.png)
+
 {{% callout note %}}
 [Baixe a citação](https://citation-needed.springer.com/v2/references/10.1007/s00894-017-3235-x?format=refman&flavour=citation).
 {{% /callout %}}
